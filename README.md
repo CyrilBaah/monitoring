@@ -19,5 +19,9 @@ This is to collect and visualize metrics from your servers and applications
 - Prometheus(Metrics) | http://localhost:9090/metrics
 - Node Exporter | http://localhost:9100
 - Node Exporter(Metrics) | http://localhost:9100/metrics
+- Cadvisor | http://localhost:8080
+- Cadvisor(Metrics) | http://localhost:8080/metrics
+
+
 
 
