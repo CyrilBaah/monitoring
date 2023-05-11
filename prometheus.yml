@@ -15,8 +15,8 @@ scrape_configs:
       - targets: ['node_exporter:9100']
 
 
-  # # Example job for Cadvisor
-  # - job_name: 'cadvisor'
-  #   static_configs:
-  #     - targets: ['localhost:8080']
+  # Example job for Cadvisor
+  - job_name: 'cadvisor'
+    static_configs:
+      - targets: ['cadvisor:8080']
 
