@@ -22,6 +22,11 @@ This is to collect and visualize metrics from your servers and applications
 - Cadvisor | http://localhost:8080
 - Cadvisor(Metrics) | http://localhost:8080/metrics
 
+# Start Server
+```sh
+$ docker-compose up
+```
+
 
 
 
